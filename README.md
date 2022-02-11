@@ -1,4 +1,4 @@
-# login_ui
+# Restaurant flutter UI
 
 A new Flutter project.
 
