@@ -1,4 +1,4 @@
-# Restaurant flutter UI
+# Restaurant UI
 
 A new Flutter project.
 
